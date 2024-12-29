@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+tensorboardX>=2.5
+pillow>=9.0.0
+numpy>=1.22
+opencv-contrib-python>=4.5.0
